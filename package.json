@@ -1,0 +1,15 @@
+{
+  "name": "ok-server",
+  "version": "1.0.0",
+  "description": "Simple server for testing network on client side by logging requests, always returns 200 OK!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frarcos/ok-server"
+  },
+  "author": "Francesco Arcostanzo",
+  "license": "MIT"
+}
